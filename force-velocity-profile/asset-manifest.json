@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "force-velocity-profile/static/js/main.48e17d12.js",
-    "static/js/787.64cc51ab.chunk.js": "force-velocity-profile/static/js/787.64cc51ab.chunk.js",
-    "index.html": "force-velocity-profile/index.html",
-    "main.48e17d12.js.map": "force-velocity-profile/static/js/main.48e17d12.js.map",
-    "787.64cc51ab.chunk.js.map": "force-velocity-profile/static/js/787.64cc51ab.chunk.js.map"
+    "main.js": "/static/js/main.4ca03fa4.js",
+    "static/js/787.64cc51ab.chunk.js": "/static/js/787.64cc51ab.chunk.js",
+    "index.html": "/index.html",
+    "main.4ca03fa4.js.map": "/static/js/main.4ca03fa4.js.map",
+    "787.64cc51ab.chunk.js.map": "/static/js/787.64cc51ab.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.48e17d12.js"
+    "static/js/main.4ca03fa4.js"
   ]
 }
